@@ -1,6 +1,6 @@
 # Portfolio-Website
 
-A personal portfolio website built with HTML and CSS, 
+A personal portfolio website built with HTML 
 showcasing my background as a BTech student and 
 aspiring web developer.
 
@@ -15,8 +15,7 @@ aspiring web developer.
 
 ## Tech Stack
 
-- HTML5
-- CSS3
+- HTML
 
 ## Author
 
